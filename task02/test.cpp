@@ -72,7 +72,7 @@ void test05() {
 
 	string expected = "2 4 5 ";
 
-	print(matrix, expected, "test04");
+	print(matrix, expected, "test04"); //AAAA
 }
 
 
